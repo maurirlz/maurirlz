@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently re-learning **ASM and C**
 
-- 💬 Ask me about **Node.JS (core/internals), Typescript, Asynchronous programming, Functional Programming, Java (Spring and EE), AWS.**
+- 💬 Ask me about **Node.JS (core/internals), Typescript, Java (Spring and EE), AWS, Asynchronous programming, Functional Programming, OOP(SOLID, Design Patterns)**
 
 - 📫 How to reach me **mauricio@kelsus.com**
 
