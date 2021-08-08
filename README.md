@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kelsus**
 
-- 🌱 I’m currently re-learning **ASM and C**
+- 🌱 I’m currently learning shell scripting and networking
 
 - 💬 Ask me about **Node.JS (core/internals), Typescript, Java (Spring and EE), AWS, Asynchronous programming, Functional Programming, OOP(SOLID, Design Patterns)**
 
