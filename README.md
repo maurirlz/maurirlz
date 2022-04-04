@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">A Node.JS Backend Developer</h3>
 
-- 🔭 I’m currently working on **kelsus**
+- 🔭 I’m currently working on **Kelsus**
 
 - 🌱 I’m currently learning **Networking, Infrastructure**
 
