@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">A Node.JS Backend Developer</h3>
 
-- 🔭 I’m currently working on **Kelsus**
+- 🔭 I’m currently working on **Dacodes**
 
-- 🌱 I’m currently learning **Networking, Infrastructure**
+- 🌱 I’m currently learning **Functional Programming with Elixir, Go**
 
-- 💬 Ask me about **Node.JS (core/internals), Typescript, Java (Spring and EE), AWS, Asynchronous programming, Functional Programming, OOP (SOLID, Design Patterns)**
+- 💬 Ask me about **Node.JS (core/internals), Typescript, Java (Spring and EE), AWS, Asynchronous programming, Functional Programming, OOP (SOLID, Design Patterns), Systems design, Microservices**
 
-- 📫 How to reach me **mauricio@kelsus.com**
+- 📫 How to reach me **mauribenitez95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
